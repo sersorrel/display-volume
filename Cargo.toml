@@ -1,0 +1,9 @@
+[package]
+name = "display-volume"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+libpulse-binding = "2.25"
+notify-rust = "4.5.2"
+num-traits = "0.2.14"
